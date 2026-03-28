@@ -1,0 +1,27 @@
+# Phishing Attack Case Study: The Fake Bank Alert Scam
+
+## What is Phishing?
+Phishing is a cybercrime where attackers impersonate trusted entities (like banks or companies) to trick victims into revealing sensitive information such as passwords, bank details, or UPI PINs. It often arrives via email, SMS, or WhatsApp messages with urgent calls to action.
+
+## How It Typically Happens (Step-by-Step)
+1. **Initial Contact**: Victim receives a realistic-looking message: "Urgent: Your SBI account is locked! Click here to verify." It mimics official bank branding.
+2. **Fake Link**: Clicking leads to a spoofed website (e.g., sb1-bank-login[.]fake) that looks identical to the real site.
+3. **Data Harvest**: Victim enters login credentials, OTP, or card details, which are captured by attackers.
+4. **Exploitation**: Criminals drain the account or sell the data on the dark web.
+5. **Cover-up**: Victim gets a fake "success" message; real issues appear later.
+
+## Who is Usually Targeted?
+College students like us are prime targets—limited cybersecurity awareness, frequent online banking for fees/hostel payments, and sharing personal details on social media. In India, 2025 saw 2.5 lakh phishing cases reported, many affecting youth via UPI apps.
+
+## Real Incident Example
+In March 2025, a Delhi University student lost ₹45,000 after clicking a fake HDFC "refund alert" SMS. The scammers used his UPI details to make rapid small transactions. (Source: Times of India, "Phishing Surge Targets Students," 15 April 2025)
+
+## Consequences
+- Financial loss (e.g., emptied bank accounts).
+- Identity theft leading to loans in victim's name.
+- Emotional distress, damaged credit scores, and time-consuming recovery.
+- Legal hassles if used for further crimes.
+
+**Stay Safe**: Never click unsolicited links—always log in directly via official apps!
+
+*Word count: 238*
